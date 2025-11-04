@@ -1,0 +1,525 @@
+Accessibility of Interactive 
+Systems 
+Accessibility and universal design of interfaces 
+Marco Winckler 
+Université Côte d’ Azur (Polytech Nice) | I3S | SPARKS team | bureau 453 
+Marco.Winckler@univ-cotedazur.fr 
+http://www.i3s.unice.fr/~winckler/   Université Côte d’ Azur (Polytech Nice) 
+
+Overview of the program 
+•False ideas about impairment, disability, and handicap. 
+•Social issues and simulations of handicap situations (physical 
+limitations, use of a screen reader). 
+•Assistive technologies for visual interfaces: responsive design; 
+video games accessibility, …
+•Accessibility and universal design. 
+2
+References 
+• Directive (eu) 2016/2102 of the European parliament and of the council of 26 October 2016 on the 
+accessibility of the websites and mobile applications of public sector bodies, 
+https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32016L2102    
+• Directive (EU) 2019/882 of the European Parliament and of the Council of 17 April 2019 on the accessibility 
+requirements for products and services, 
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.151.01.0070.01.ENG&toc=OJ:L:2
+019:151:TOC  
+• Giraud, S., Thérouanne, P ., & Steiner, D. D. (2018). Web accessibility: Filtering redundant and irrelevant 
+information improves website usability for blind users. International Journal of Human-Computer Studies , 
+111, 23-35. http://dx.doi.org//10.1016/j.ijhcs.2017.10.011 
+• Hans Persson, H., Åhman, H., Arvei, Yngling, A., & Gulliksen, J. (2015). Universal design, inclusive design, 
+accessible design, design for all: different concepts—one goal? On the concept of accessibility—historical, 
+methodological and philosophical aspects. Universal Access in the Information Society , 14, 505–526. 
+http://dx.doi.org//10.1007/s10209-014-0358-z  
+• World Wide Web Consortium (W3C) (2018). Web Content Accessibility Guidelines  (WCAG) 2.1. 
+https://www.w3.org/TR/WCAG21/  
+• Jonathan Lazar, J. Bern Jordan, Gregg C. Vanderheiden. Toward unified guidelines for kiosk accessibility. 
+Interactions 26(4): 74-77 (2019). 
+http://interactions.acm.org/archive/view/july-august-2019/toward-unified-guidelines-for-kiosk-accessibilit
+y
+• Jacob O. Wobbrock, Krzysztof Z. Gajos, Shaun K. Kane, Gregg C. Vanderheiden: Ability-based design. 
+Commun. ACM 61(6): 62-71 (2018) 
+3
+Why Accessibility  ? 
+•“Accessibility  is ease of use of a product, a 
+service, an environment or a facility, 
+regardless of individuals' capabilities .” 
+(Standard ISO 9241, 2008). 
+•Multiples implications for: 
+–Understanding individuals capabilities 
+–Design of assistive technology 
+–Regulations and laws for making social impact 
+Accessibility : False Ideas 
+•I am not disabled, therefore this is not for me 
+–WAI is for all 
+–20% people have some kind of problem 
+–Barriers affect several devices: (mobiles, PDA, TV, kiosks, voice response 
+systems, ...) 
+•Disabled people can't use computers 
+–Internet is a great world for them (and for me too) 
+–Specialized Hw + Sw (Braille, voice, magnifiers, ...) 
+–Other temporal disabilities: driving 
+•Boring/dull text-only alternate version 
+–Discrimination (not all people have the same problems) 
+–Why double effort or resources? 
+–A text only version may be even less accessible 
+•Specific design for each user type/device 
+–Design for ANY  user type 
+–Device independence 
+5 
+When was the last time you …
+6
+Use curb cut ? 
+Went through an automatic door ? 
+Read closed-captioning? 
+Adjust your chair/table ? 
+
+Social There is a cost to context 
+11
+Perceptual Cognitive 
+Motor 
+Hrm
+…
+
+Reduces motor accuracy 
+(Lin et al. 2005, 2007; Schedlbauer & Heines 
+2007) Reduces reading speed 
+(Mustonen et al. 2004) 
+Divides attention; 4 second “bursts” of 
+interaction 
+(Oulasvirta et al. 2005; Bragdon et al. 2011) 
+Reduces ability to maneuver and avoid 
+obstacles 
+(Vadas et al. 2006) Interacting while walking 
+12
+13
+Stockholm, 
+Sweden 
+14
+
+15
+Bodegraven, 
+Netherlands People are looking down at their phones and stepping into traffic, so near Amsterdam they 
+projected the crosswalk indicator down on the ground. 
+16
+Chongqing, 
+China Two separate walking lanes, one for walking while texting and one for walking 
+without using your phone. 
+17
+
+Situations  affect our abilities 
+to interact with technologies, 
+our surroundings, and other people. 
+18
+Situationally induced impairments and disabilities 
+(SIID) 
+“Both the environment in which individuals are 
+working and their current [activities] … can 
+contribute to the existence of impairments, 
+disabilities, and handicaps.” 
+19Andrew Sears & 
+Mark Young (2003) 
+Disability (WHO 1976) 
+“Any restriction or lack … of ability to perform 
+an activity in the manner or within the range 
+considered normal  for a human being .”
+ — World Health Organization (1976) 
+20DEPRECATED
+
+Disability due to the environment 
+has been recognized for some time 
+in the accessibility community. 
+21
+22
+Disabling situations 
+“[A soldier on a battlefield] can be blinded by smoke, deafened 
+by gunfire, mobility impaired by being up to the waist in mud, 
+have poor tactile sensitivity and dexterity because of wearing a 
+chemical warfare suit, and be cognitively impaired because of 
+being scared stiff of being killed—and this is before the solider is 
+wounded! If one were to measure the effective abilities of a 
+person in such an environment , they would be poor enough 
+over a number of dimensions for him or her to be classified as 
+severely disabled in a more normal environment.” 
+23Alan F. Newell (1995) 
+24
+Don’t need to be a soldier to experience a 
+disabling situations 
+Environments affect our ability to interact. 
+We adapt ourselves to compensate. 
+25
+Assistive technology 
+26
+
+Our computing devices remain 
+oblivious  to the many ways we adapt 
+ourselves to suit them. 
+27
+Accessible computing? Or adaptable 
+humans? 
+28
+
+Assistive technology, a few examples 
+29
+
+Since environments affect all of us, 
+we all might beneﬁt  from more 
+situationally aware devices. 
+30
+Accessibility is for everyone 
+31“If we design systems which are truly ubiquitous and nomadic; that we can 
+use whether we are walking down the hall, driving the car, sitting at our 
+workstation, or sitting in a meeting; that we can use when we’re under stress 
+or distracted; and that make it easy for us to locate and use new services—we 
+will have created systems which are accessible to almost anyone with a 
+physical or sensory disability. … [D]ifferent environments will put 
+constraints on the type of physical and sensory input and output techniques 
+that will work. … [M]ost all of the issues around providing access to people 
+with disabilities will be addressed if we simply address the issues raised by 
+[this] ‘range of environments.’” 
+Gregg C. Vanderheiden (1997) 
+Not “the same!” 
+32•Different lived experience 
+•No stigma with SIIDs 
+•No disability culture 
+•No need for legal protections 
+or policy considerations 
+And yet… 
+•The impairing effects of SIIDs are real 
+•Designs that can benefit people with 
+disabilities can also benefit people 
+experiencing SIIDs 
+≠ 
+
+Many sources of SIIDs 
+33
+Jacob O. Wobbrock, Krzysztof Z. Gajos , Shaun K. Kane , Gregg C.  
+Vanderheiden : Ability-based design. Commun. ACM 61(6) : 62-71 (2018) 
+Location 
+34
+Outside the self 
+ Inside the self 
+From without 
+Limitation removable by 
+change in context From within 
+Limitation present in 
+(most) any context Mixed 
+Limitation comes 
+from both person 
+and context 
+Duration 
+35
+Long-term 
+ Short-term 
+Enduring Ephemeral 
+36
+
+37Our devices were more aware of our situated abilities? 
+How can we make them so? 
+What new possibilities arise? 
+Examples of projects 
+Jacob O. Wobbrock and ali. 
+38
+Walking User Interfaces 
+(2008) 
+WalkType 
+(2012) 
+GripSense 
+(2012) 
+ContextType 
+(2013) 
+SwitchBack 
+(2015) 
+Drunk User Interfaces 
+(2018) 
+RainCheck 
+(2018) 
+*
+*
+**
+WalkType 
+39Goel, M., Findlater, L. and Wobbrock, J.O. (2012). WalkType: Using accelerometer data to accommodate situational impairments in mobile touch screen text entry.  Proceedings of the 
+ACM Conference on Human Factors in Computing Systems (CHI '12). Austin, T exas (May 5-10, 2012). New York: ACM Press, pp. 2687-2696. Honorable Mention Paper. 
+
+WalkType (Goel et al. 2012) 
+14
+40
+Error key press 
+Correct key press It’s hard to type while walking. 
+WalkType reduces errors by half. 
+Training data 
+•16 participants 
+•Sitting, and walking with a 
+human pacesetter 
+•50 phrases each 
+•Two-thumb typing 
+•47,647 key-presses 
+•3-axis accelerometer @ 100 
+Hz
+•Touch down, up, travel, time 
+41
+
+Models 
+42Key Bounds T ouch + Phone Up/Down + Acceleration 
+Walking Pattern 
+T ouch up 
+T ouch travel 
+Time between taps T ouch down Vertical direction 
+at each tap 
+Vertical displacement 
+at each tap 
+TAP 
+1TAP 
+2
+Between successive taps, 
+10 resampled values in (x,y,z) 
+capture vibration of phone 72.8% 90.8% 
+(touch only) 94.6% 
+Left Foot Right Foot Intended 
+Actual 
+Phase of gait 
+at each tap 
+Horizontal direction 
+at each tap 
+X-accel. amplitude 
+X-accel. frequency Mean Right 
+foot
+Left
+foot 
+ p1p2X-acceleration 
+95.7% 
+WalkType 
+•Touch anchors at very 
+center of each key 
+(Gunawardana et al. IUI 2010) 
+•Else, majority rules 
+from the three decision 
+tree models 
+•If all models disagree, 
+the Walking Pattern 
+model wins 
+•Final classification 
+accuracy: 97.3% (10-fold cross 
+validation) 
+43
+
+Evaluation 
+•16 participants 
+•Control vs. WalkType 
+•Sitting and walking 
+•30 phrases each 
+•57,663 key-presses 
+•14 of 16 participants 
+preferred WalkType 
+(blinded) 
+44
+Error Rate (%) 
+p<.05 -45.2% 
+p<.05 
+Words per Minute +12.9% 
+p<.05 n.s. 
+SwitchBack 
+45Mariakakis, A., Goel, M., Aumi, M.T.I., Patel, S.N. and Wobbrock, J.O. (2015). SwitchBack: Using focus and saccade tracking to guide users' attention for mobile task resumption.  
+Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI '15). Seoul, Korea (April 18-23, 2015). New York: ACM Press, pp. 2953-2962. 
+Interaction in 4-second bursts (Oulasvirta et al. 2005) 
+46
+Task resumption 17
+47Lorem ipsum dolor sit amet, 
+consectetur adipiscing elit, sed do 
+eiusmod tempor incididunt ut labore et 
+dolore magna aliqua. Ut enim ad minim 
+veniam, quis nostrud exercitation 
+ullamco laboris nisi ut aliquip ex ea 
+commodo consequat. Duis aute irure 
+dolor in reprehenderit in voluptate velit 
+esse cillum dolore eu fugiat nulla 
+pariatur. Excepteur sint occaecat 
+cupidatat non proident, sunt in culpa 
+qui officia deserunt mollit anim id est 
+laborum. 
+(0,0
+)
+(1,1
+)
+48
+
+00
+11
+(0.40, 0.45) Saccades Focus
+face? eyes? 
+Saccades Focus
+
+Evaluation 
+Reading task with 
+17 participants 
+•9 males, 8 females 
+ 
+2×2×2 within-Ss. 
+design: 
+•Standing vs. walking 
+•Distraction task vs. 
+no distraction task 
+•Control vs. SwitchBack 
+phon
+edistraction task 
+(Yokoyama et al. ‘14) 
+<1 wpm difference (n.s.) 
+19 wpm faster (~8%) (p<.05) 
+That anyone, anywhere, at any time, can interact 
+with systems ideally suited to their speciﬁc 
+situated abilities , and that our systems do the 
+work to achieve this fit. 
+54Grand 
+Challenge 
+55
+
+What is universal design? 
+Universal Design is the design of all 
+products and environments to be usable 
+by people of all ages and abilities, to the 
+greatest extent possible. 
+- Ronald L. Mace, 1991 
+
+"The only important thing about design is 
+how it relates to people.” 
+(Pananek, 1968) 
+“The only thing 
+important about 
+design is how it 
+relates to people.” 
+Victor Papanek, 1968 
+
+Tales of universal design in Industry 
+
+Duracell hearing aid batteries 
+Packaging that reduces 
+effort is as important 
+to usability as the 
+product itself. 
+
+Oxo Good Grips 
+Sometimes universal 
+design markets itself. 
+
+Tupperware 
+Products that last 
+through several 
+generations should 
+be usable by people 
+of all ages and 
+abilities. 
+
+•Accessible Design: for people with 
+disabilities 
+•Universal Design: for everyone, including  
+people with disabilities 
+Accessible vs. universal 
+Usability for all ages and abilities: 
+The 7 Principles of 
+Universal Design  
+©1997 
+The Center for Universal Design 
+North Carolina State University 
+1. Equitable Use 
+2. Flexibility in Use 
+3. Simple and Intuitive Use 
+4. Perceptible Information 
+5. Tolerance for Error 
+6. Low Physical Effort 
+7. Size and Space for Approach and Use The 7 Principles of Universal Design 
+Principle 1:  Equitable Use 
+The design is useful and marketable 
+to people with diverse abilities. 
+ 
+
+Principle 1: Equitable Use 
+
+Principle 2:  Flexibility in Use 
+The design accommodates a wide range of individual 
+preferences and abilities. 
+
+Principle 2:  Flexibility in Use 
+
+Principle 3:  Simple and Intuitive Use 
+Use of the design is easy to understand, regardless of the 
+user’s experience, knowledge, language skills or 
+concentration. 
+
+Principle 3:  Simple and Intuitive Use 
+
+Principle 4:  Perceptible Information 
+The design communicates information effectively to the 
+user, regardless of the environment or the user’s 
+abilities 
+
+Principle 4:  Perceptible Information 
+
+Principle 5:  Tolerance for Error 
+The design minimizes hazards and negative 
+consequences of accidental actions. 
+
+Principle 5:  Tolerance for Error 
+The design minimizes hazards and negative 
+consequences of accidental actions. 
+“CAUTION:  It is not recommended that children or pets 
+regularly drink water from the toilet, even though the bowl 
+water is not harmful to children or pets.” 
+
+Principle 6:  Low Physical Effort 
+The design can be used efficiently 
+and comfortably and with a 
+minimum of fatigue. 
+
+Principle 6:  Low Physical Effort 
+The design can be used efficiently 
+and comfortably and with a 
+minimum of fatigue. 
+
+Principle 7:  Size and Space for 
+Approach and Use 
+Appropriate size and space is provided for use, regardless of 
+user’s body size or posture. 
+
+Principle 7:  Size and Space for 
+Approach and Use 
+
+Principle 7:  Size and Space for 
+Approach and Use 
+
+Next steps:  
+Promoting universal design 
+
+Remember that you are unique – Just 
+like million others 
+•15% of us have disabilities 
+•5% of us have cognitive disabilities 
+•4% of us have sensory disabilities 
+•9% of us have physical disabilities 
+•11% of us live with someone 
+with a disability 
+81
+Disability as a function of age 
+82 Source: U.S. Census Bureau Report on Americans with Disabilities: 1994-1995 (August 1997). 
+Based on Survey of Income and Program Participation. Oct 1994 - Jan 1995. 
+
+Baby Boomers 
+•Extended careers 
+•Active lifestyles 
+•½ are sandwiched 
+between children and 
+parents 
+
+Seniors 
+•Most rapid growth worldwide 
+•Desire to age in place 
+•Most caregivers are females 
+over 75 
+•Rising number care for 
+grandchildren 
+
+Why Accessibility  and Universal  Design  ?
+•People autonomies makes life easier for all! 
+•We always might have hard time in life 
+•As the winter... aging is coming … 
+•Making money 
+•So we all concerned 
+
+86

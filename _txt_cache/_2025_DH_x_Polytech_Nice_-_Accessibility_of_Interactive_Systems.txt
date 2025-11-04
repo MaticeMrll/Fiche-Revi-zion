@@ -1,0 +1,1281 @@
+Accessibility of 
+Interactive Systems 
+
+Rendre le monde 
+meilleur par le 
+Handicap ! 
+DIGITAL HANDICAP 
+● 󰳓
+ FORMATION 
+● 󰡷
+ TEST UTILISATEUR 
+● 🔍
+ AUDIT 
+
+Introduction à 
+l’accessibilité 
+numérique Cour 1 
+Formation bases 
+techniques 
+accessibilité 
+numérique Semaine Projet 
+( Coder accessible ) 
+Cour 2 
+Production Production Cour 3 Cour 4 
+Soutenance 
+Test
+Cour 5 
+Délibération 
+Dépôt Choix des 
+équipes 24/09/2025 01/10/2025 08/10/2025 15/10/2025 05/11/2025 
+Sensibilisation à l'Accessibilité Numérique 
+●Conscience sociale et professionnelle 
+●Compréhension des normes  
+Application Pratique des Connaissances 
+●Mise en pratique des compétences en Code &  
+UX/UI  
+●Résolution de problèmes  
+Travail d'Équipe et Collaboration 
+●Compétences collaboratives  OBJECTIFS PÉDAGOGIQUE 
+🧠
+
+Sélection des pages à auditer 
+●Page d’accueil  et page contact  (éléments essentiels). 
+○Pages avec formulaires, menus et multimédias .
+20 critères d’audit basés sur le RGAA 
+●Technique :  HTML sémantique, navigation clavier, balises alt.
+●Visuel :  Contrastes, lisibilité, intitulés explicites. 
+●Multimédia :  Sous-titrage vidéo, alternatives textuelles. 
+Finalité : 
+●Identifier les erreurs et proposer des préconisations. 
+●Assurer une meilleure accessibilité après correction. Préparation de l’Audit d’Accessibilité 
+󰡸
+
+PROJET 
+Développer 3 pages accessibles & 
+conformes aux critères d’accessibilité 
+●Page d’accueil 
+●Page contact 
+●Page Blog (article web) 
+Structurer son code pour l’accessibilité 
+●HTML sémantique 
+●Navigation optimisée 
+●Liens et boutons clairs 
+●Design et accessibilité visuelle 󰠁
+
+Semaine Projet avec des Testeurs handicapé 
+🤝
+Les apprenants 
+devront 
+collaborer  avec 
+des testeurs en 
+situation de 
+handicap  lors de 
+la semaine projet. 😎
+ Nos Super Testeurs 
+
+Nous constituerons plusieurs équipes de 3 à 4 personnes maximum. 
+Chaque équipe doit prendre en compte, dans son projet les 4 profils de handicap 
+ 
+●Handicap Moteur (exemple : tetraplegique , polyhandicapé) 
+●Handicap Visuel (exemple : DMLA , malvoyants, non-voyant) 
+●Handicap Auditif (exemple : sourd, malentendant) 
+●Handicap Cognitif (exemple : spectre autistique , trouble dys) ORGANISATION DES ÉQUIPES 
+
+1 ENTREPRISE = 1 ÉQUIPE 
+Réaliser la refonte intégrale d’un site internet 
+d’un service public ou culturel de la ville de Nice ! 
+
+●Prototype de Solution:  Un prototype fonctionnel d'un site web qui respecte les  
+principes d'accessibilité numérique. 
+●Présentation  du Projet: Une présentation de l’audit, accompagnée d’une  
+explication détaillée du processus de conception, des choix d’accessibilité  
+réalisés, ainsi que de la manière dont la solution répond aux besoins des  
+utilisateurs en situation de handicap. 
+●Évaluation de l'Accessibilité:  Le projet inclut le développement de deux 
+pages web accessibles  (page d’accueil et page contact) entièrement codées en 
+respectant les normes d’accessibilité (HTML sémantique, navigation clavier, 
+contrastes adaptés, ARIA). Une évaluation de l’accessibilité  est réalisée à 
+travers un rapport d’audit .LIVRABLES 
+
+CRITÈRES D'ÉVALUATION 
+(20 points) 
+Partie 1 : Critères accessibilité (11 points) 
+Respecter les normes accessibilité 
+française RGAA 4 points 
+Être capable de concevoir un code structuré 
+et accessible qui garantit une expérience 
+utilisateur fluide pour tous, y compris les 
+personnes en situation de handicap." 
+3 points 
+Définir des persona handicapé réalistes 2 points 
+Proposer des préconisations pour améliorer 
+l’accessibilité du site 2 points 
+
+CRITÈRES D'ÉVALUATION 
+(20 points) 
+Partie 2 : Critères Ecole (7 points) 
+Différencier les stratégies d’accessibilité : 
+handicap, permanent et temporaire 3 points 
+Comprendre les enjeux du code accessible 3 points 
+Être capable de trouver des ressources sur 
+les services numérique concernés 1 point 
+
+CRITÈRES D'ÉVALUATION 
+(20 points) 
+Bonus 
+Soigner votre support de présentation 1 point 
+Répondre clairement aux questions 1 point 
+
+
+Les 2 mondes de l’accessibilité 
+
+
+Organisme gouvernemental qui régit l’accessibilité numérique 
+Direction 
+Interministérielle 
+NUM érique 
+La DINUM  
+
+La direction interministérielle du numérique (DINUM) propose cette 
+définition : 
+“L’accessibilité numérique consiste à rendre 
+les services en ligne accessibles aux 
+personnes en situation de handicap .”
+
+Pourquoi est-ce important ? 
+milliard  de personnes handicapées dans le monde +1 
+De la population 
+mondiale touchée 
+par une forme de 
+déficience visuelle 17% 
+6%
+De la population 
+mondiale touchée par 
+un handicap auditif 
+De la population touchée 
+par un handicap 
+intellectuel 2,6% 
+De la population 
+mondiale a besoin d’un 
+fauteuil roulant 1% 
+
+1,7
+millions Personnes 
+handicapées 
+cognitif De personnes 
+concernées par un 
+handicap auditif 5,4 
+millions 
+700 000 
+3,5 
+millions De personnes à 
+mobilité réduite 
+Millions de citoyens Français 
+en situation de handicap 12 
+De personnes 
+concernées par un 
+handicap visuel 
+18 % de la population française en situation 
+de handicap 
+80% des handicap sont invisibles 
+https://www.linkedin.com/feed/update/urn:li:activity:7127226836874338
+304/ 
+source : Fédération  Francaise des Dys - Trouble Dys   
+
+3%
+sites internet accessibles 
+(source : CNCPH )
+« Nous ne sommes pas handicapés, 
+mais c'est la société qui nous handicape. » 
+@Dame_Fanny 
+ParisWeb 2017 – conférence ‘Surdité et accessibilité du web Validisme 
+Natation : Théo Curin premier nageur handisport à terminer « une course de dingue » de 57 km  https://www.youtube.com/watch?v=57P_dCEPtRw 
+Le validisme  est une forme de discrimination ou de 
+préjugé envers les personnes en situation de handicap, 
+fondée sur l'idée que les personnes valides sont 
+"normales" ou supérieures. Il se manifeste par des 
+attitudes, comportements qui excluent, les personnes 
+handicapées dans la société. 
+Validisme 
+Précarité : 
+●logement (difficulté de trouver un logement) 
+●éducation (difficulté de poursuivre ses études) 
+●intégration sociale (accès à l’information, vie sociale)... 
+●culture ( spectacle, média, plate forme streaming)...  
+Discrimination :  incapacité de voter en ligne, d’accéder à des emplois, 
+discriminitation pour précarité sociale, etc. 
+Egalité des chances et droit fondamental 
+Anecdote UBER 
+
+Types de handicap 
+MOTEUR AUDITIF VISUEL COGNITIF 
+https://www.atalan.fr/agissons/fr/daltonisme.html 
+           Handicap moteur 
+        Le handicap moteur est caractérisé par la limitation de certaines fonctions physiques d’un individu 
+       Handicap auditif 
+        Les personnes peuvent être sourdes de naissance ou devenues sourdes 
+       Handicap visuel 
+Pour le grand public, le déficient visuel s’assimile souvent à une personne totalement aveugle. Mais 
+dans les faits, la déficience visuelle est multiforme. 
+Handicap mental (Josef Schovanec) 
+Le handicap mental regroupe à la fois la déficience mental, le handicap cognitif, le handicap 
+psychique. 
+https://www.atalan.fr/agissons/fr/daltonisme.html 
+Comment prendre en compte 
+tous ces besoins ? 
+💖
+Le numérique est au service des HUMAINS ! 
+
+Source : Konbini - aveugle  Personna 
+(handicap visuel) 
+Le Nouvel Obs - Comment les aveugles utilisent internet ?  
+BONNES PRATIQUES 
+●Cacher champ de formulaire 
+à laisser vide 
+●Envoyer un code par email 
+ou SMS à recopier dans 
+l’interface 
+●Tester le temps de 
+remplissage du formulaire 
+
+Personna 
+(handicap auditif) 
+Yaya, 25 ans sourde 
+Le webinaire 
+Lycéenne sourde manifeste pour être considérée comme une "vraie citoyenne". Au Super Bowl 2023, Justina Miles a presque éclipsé Rihanna  
+BONNES PRATIQUES 
+●Sous-titrage des vidéos 
+●Transcriptions  
+●Interprétation en langue     
+des signes 
+
+Personna 
+(handicap cognitif) 
+soraya, 46 ans 
+autiste 
+
+BONNES PRATIQUES 
+●Arrêter les images en 
+mouvement 
+●Utiliser un langage simple 
+comme le FALC (Facile À Lire 
+et à Comprendre) 
+●Espacer bien les éléments 
+
+Personna 
+(handicap cognitif) 
+kevin, 18 ans, 
+dyslexique 
+
+BONNES PRATIQUES 
+●Choix de la Typographie 
+●Taille de la Police 
+●Espacement 
+https://docs.google.com/presentation/d/1mVQ2-2Al2_9kfEqRGBuEHcad63g2LSy4ur_jD0erLDw/edit#slide=id.g308ea955be3_0_135 
+Comment rendre le web accessible ? 
+TIM BERNERS LEE 
+1994  : W3C 
+World Wide Web Consortium 
+1999  : WCAG  1.0
+Web Content Accessibility Guidelines 
+2005  : 
+Loi handicap 
+2019  : 
+European Accessibility Act 
+2009  : RGAA 
+Article 47 de la loi handicap de 2005 
+C’est une obligation légale 
+pour l'égalité des droits et des chances, la participation et la citoyenneté 
+des personnes handicapées 
+
+Organismes français obligé d’être conforme 
+●Les services de l’État ; 
+●Les établissements publics ; 
+●Les organisations d’intérêt général. 
+●Les entreprises avec un chiffre 
+d’affaires supérieur à 250 millions 
+d’euros €   ●Intranet 
+●Application mobile 
+●Extranet 
+●Site internet 
+●Autres... 
+Rappel : Rappel du champ d’application  
+France : Obligations légales et sanctions   Privé 
+25 000 €  
+d’amendes par service en 
+ligne et par an Public 
+50 000 €  
+d’amendes par service en 
+ligne et par an 
+●Entreprises de plus de 10 personnes avec un chiffre 
+d’affaires supérieur à 2 millions d’euros .
+●Amende maximale de 50 000 €  pour le non-respect de 
+l'obligation d'accessibilité des sites des organismes publics. Nouvelles réglementations d'accessibilité numérique en  France 
+Accessibilité numérique à 100% : le Gouvernement passe à la vitesse supérieure et présente une ordonnance visant à contrôler  
+l’accessibilité des sites des administrations publiques à compter 2024  
+Selon la directive européenne (UE) 
+2019/882 : 
+Tous les sites et plateformes de 
+commerce électronique  doivent être 
+accessibles  pour les nouveaux services 
+à partir de 2025 et pour l’existant à 
+partir de 2030. 
+Source :  Access 42 
+2025 Accessibilité du commerce électronique 
+Comment prendre en compte tous ces besoins ? 
+Organisme français qui vérifie la conformité 
+Autorité  
+Régulation 
+COM munication 
+audiovisuelle et numérique 
+https://accessibilite.numerique.gouv.fr/ 
+
+L’autorité de régulation de la communication audiovisuelle et numérique pour les  
+services des éditeurs et des distributeurs de service de communication  
+audiovisuelle  
+Source :  Numérique Gouv L’autorité de régulation des communications électroniques, des postes et de la  
+distribution de la presse pour les services de communications électroniques  
+L’autorité de contrôle prudentiel et de résolution et l’ AMF (Autorité des  
+marchés financiers) pour les services bancaires. 
+Organismes français qui vérifient la conformité 
+Développement 
+Web
+CONCEPTION UNIVERSELLE 
+source : UX republic 
+TEXTO 
+● Inventeur : Matti Makkonen 
+● Idée : trouver un moyen simple aux 
+sourds et malentendants  d’utiliser des 
+téléphones portables. 
+● Nokia sera le 1er constructeur  à inclure 
+les SMS  dans ses téléphones. 
+Les enjeux de la conception universelle 
+La conception universelle en accessibilité numérique dans le  
+développement  web garantit que les utilisateurs handicapés puissent  
+accéder aux services numériques, promouvant ainsi l'inclusion et  
+l'égalité.  
+En touchant un public plus large, elle renforce l'image de marque et  
+stimule l'innovation.  
+Cela apporte des avantages tangibles aux organisations et à tous  
+leurs utilisateurs, y compris les personnes handicapées. 
+
+Comment prendre en compte tous ces besoins ? 
+Organisme mondial de normalisation du web 
+World 
+Wide 
+Web 
+Consortium 
+https://accessibilite.numerique.gouv.fr/ 
+WCAG - Web Content Accessibility Guidelines 
+(Règles pour l'accessibilité des contenus Web) 
+Normes 
+Comprendre les WCAG et RGAA : Pour suivre les meilleures pratiques en matière d'accessibilité. 
+WCAG (Web Content Accessibility Guidelines) 
+Les Web Content Accessibility Guidelines (WCAG) sont un ensemble de recommandations  
+élaborées pour améliorer l'accessibilité du contenu web.  
+Les WCAG visent à fournir une norme unique pour les concepteurs et les développeurs afin de  
+rendre les contenus web plus accessibles aux personnes en situation de handicap. 
+
+Web
+Content 
+Accessibility 
+Guidelines 
+●Perceptible 
+●Utilisable 
+●Compréhensible 
+●Robuste 
+Les 4 principes 
+WCAG 
+PERCEPTIBLE Perceptible 
+Textes Alternatifs 
+Médias temporels 
+Adaptable 
+Distinguable 
+Faciliter la lecture 
+Pour qui ? 
+Handicaps visuels 
+Handicaps auditifs 
+Handicaps cognitifs 
+Handicaps physiques 
+
+Utilisable 
+Accessible au clavier 
+Délai suffisant 
+Pas de contenu clignotant 
+Navigable 
+Entrées modale s 
+Pour Qui ? 
+idem perceptible 
+Trouble épileptique 
+Handicap lié à la parole 
+UTILISABLE 
+
+Compréhensible 
+Texte lisible 
+Interface utilisateur 
+prévisible 
+Assistance à la saisie  
+Pour qui ? 
+Handicaps visuels 
+Handicaps auditifs 
+Handicaps cognitifs 
+Handicaps physiques COMPRÉHENSIBLE 
+
+robuste 
+Optimiser la compatibilité 
+avec les outils actuels et 
+futurs 
+Pour qui ? 
+Tous types de handicaps ROBUSTE 
+
+3 niveaux de conformité : A, double A (AA) et triple A (AAA) 
+                                
+                                Ce sont des critères de niveau minimum de conformité 
+                                Ce sont des critères complémentaires 
+                                Ce sont des critères spécifiques pour certains types de handicap.  
+
+●Niveau simple A : 80% des critères 
+Le niveau légal attendu dans toute l’Union européenne,  
+est le niveau double A (AA ).
+
+Méthodologie française de l’accessibilité numérique 
+Référentiel 
+Général 
+Amélioration 
+Accessibilité 
+https://accessibilite.numerique.gouv.fr/ 
+R GAA 
+13 thématiques, 106 critères qui couvrent les aspects essentiels de l'accessibilité web . 
+Sur les 13 thématiques du RGAA, au moins 10 dépendent directement du code HTML et CSS  et environ 80% des  
+critères  concernent directement ou indirectement le travail du développeur web.  
+1.Images 
+2.Cadres 
+3.Couleurs 
+4.Multimédia et contenus embarqués 
+5.Tableaux 
+6.Liens 
+7.Scripts 
+8.Éléments obligatoires 
+9.Structuration de l'information 
+10. Présentation de l'information 
+11. Formulaires 
+12. Navigation 
+13. Consultation 
+ 
+R GAA 
+106 
+critères d'accessibilité 
+13
+thématiques qui couvrent les 
+aspects essentiels de 
+l'accessibilité web. 
+source : RGAA RGAA 
+1.Images 
+2.Cadres 
+3.Couleurs 
+4.Multimédia et contenus embarqués 
+5.Tableaux 
+6.Liens 
+7.Scripts 
+8.Éléments obligatoires 
+9.Structuration de l'information 
+10. Présentation de l'information 
+11. Formulaires 
+12. Navigation 
+13. Consultation Sur les 13 thématiques du RGAA, au moins 10 dépendent directement du code HTML et  
+CSS et environ 80% des critères  concernent directement ou indirectement le travail du  
+développeur web.  
+RGAA : Pages obligatoires à auditer 
+page d’accueil 
+page contact 
+page mentions légales, 
+page « accessibilité » 
+page plan du site 
+page d’aide, 
+page d’authentification. 
+ 
+https://accessibilite.numerique.gouv.fr/ 
+A UDIT 
+Pour le référentiel technique du RGAA 4.1, un critère peut avoir l’un des 4 statuts 
+suivants : 
+●Conforme  : l’ensemble des tests applicables sont réussis ( 
+●Non conforme  : un test applicable est échoué au moins 
+●Non applicable  : il n’y a pas de contenu concerné par le critère ; 
+●Non testé  : le critère n’a pas été testé (nouveau statut permettant de mesurer 
+la progression de l’audit). 
+https://accessibilite.numerique.gouv.fr/ 
+
+Sur le principe du calcul de la conformité pour une page, il suffit d'un critère 
+non conforme sur une page pour que le critère soit non conforme pour 
+l'échantillon entier. 
+
+Comment prendre en compte tous ces besoins ? 
+1 - Mention accessibilité  
+2 - Niveau de conformité 
+3 - Déclaration d’accessibilité 
+4 - Schéma pluriannuel 🕵
+4 Justificatifs pour que son site web soit conforme à la loi 
+Comment prendre en compte tous ces besoins ? 
+1 - Mention accessibilité 
+😉
+ Toujours 
+regarder en bas 
+de page 
+Source : Caisse des dépôts 1
+Comment prendre en compte tous ces besoins ? 
+Taux de conformité à la norme 
+Source : Caisse des dépôts Le taux de conformité permet de mesurer les progrès du service en 
+ligne eu égard à la conformité aux exigences d’accessibilité. 
+Non conforme 0 - 49 % 
+Partiellement conforme 50 - 99 % 
+Pleinement Conforme 100 % 
+Comment prendre en compte tous ces besoins ? 
+2 - Niveau de conformité 
+Source : Caisse des dépôts (page accessibilité) 2
+😉
+ Toujours 
+vériﬁer 
+la note. 
+Comment prendre en compte tous ces besoins ? 
+3 - Déclaration d’accessibilité 
+Source : Caisse des dépôts (page accessibilité) 3
+
+Comment prendre en compte tous ces besoins ? 
+4 - Schéma pluriannuel 
+Source : Caisse des dépôts (Schéma pluriannuel) 4
+
+Comment prendre en compte tous ces besoins ? 
+Les outils de surcouche , ne permettent  
+en aucun cas  de rendre un site internet  
+accessible  ni de respecter la législation  
+française en vigueur. 🤬
+🚫
+ NON aux surcouches ! 🚫
+Source : Les outils de surcouche et la conformité au RGAA 
+Comment prendre en compte tous ces besoins ? 
+Conformité vs Accessibilité 
+●La conformité , c'est quand un site internet respecte des normes spécifiques 
+établies pour l'accessibilité (WCAG-RGAA). 
+●L'accessibilité , Elle concerne l'expérience vécue par les personnes  
+lorsqu'elles naviguent sur le site. 
+En somme, un site conforme est un bon début, mais un site accessible est l'objectif 
+à atteindre pour que tout le monde puisse l'utiliser facilement. 
+ RGAA 
+
+ACCESSIBILITÉ CONFORMITÉ 
+●Expérience Utilisateur 
+●Tests Utilisateurs 
+●Navigation Intuitive 
+●Contenu Compréhensible ●Loi handicap 2005 
+●Respect des Normes 
+○Mondial : WCAG 
+○France : RGAA 
+●Audit Technique 
+●Conseil 
+L’accessibilité sans les personnes handicapées 
+ce n’est pas de l’accessibilité ! 
+ACCESSIBILITÉ CONFORMITÉ 
+💖
+ 
+Humain 🧠
+ 
+Technique 
+● RSE 
+● Marque employeurs 
+● WCAG / RGAA 
+● Infrastructure web 
+● Loi handicap 2005 ● SEO 
+● Traﬃc 
+● Image de marque ● UX / Design 
+● e-commerce Pourquoi l’accessibilité numérique 
+concerne tout le monde ? 
+A11Y Ressources 
+Humaines Marketing 
+Informatique Digital 
+Juridique Communication 
+💡
+SOLUTION 
+FORMATION 1
+TEST 2
+AUDIT 3
+DIGITAL HANDICAP 
+Abonnez-vous 
+🥰
+
+😉
+ Coder accessible, 
+c’est coder correctement 
+ARIA 
+une petite introduction à ARIA 
+
+😁
+ Bonnes pratiques : ARIA 
+Accessible 
+Rich
+Internet 
+Application 🤔
+Présentation d'ARIA (Web Dev)  
+✅
+ Utilisez les attributs ARIA avec parcimonie , 
+uniquement lorsque le HTML natif ne suffit pas à rendre 
+un élément accessible. ✅
+ ARIA  permet de rendre les éléments du web 
+accessibles aux outils d’assistance  lorsque le HTML 
+standard ne suffit pas. 
+Comment prendre en compte tous ces besoins ? 
+ ARIA 
+
+     
+✅
+ Changement de rôle 
+L'attribut « role » permet de modifier ou renforcer le rôle natif d'un élément HTML.  
+Il est ainsi possible d'attribuer un rôle de bouton à un lien, de case à cocher à une  
+image, ou de titre. 
+<span  role="button"  tabindex=”0”>Ceci est un bouton</span> Comment prendre en compte tous ces besoins ? 
+ ARIA 
+
+     
+✅
+ Le rôle “présentation” 
+Une des valeurs particulière de l’attribut role, est le rôle “présentation” 
+Ce rôle a pour effet de supprimer la sémantique d'un élément, du point de vue de 
+l'API d'accessibilité. 
+supprime la sémantique (titre de niveau 1) de l'élément, qui est restitué comme un 
+simple texte (équivalent à DIV ou SPAN). 
+<h1 role= 'presentation' >J'étais un titre, je deviens un texte simple<h1> Comment prendre en compte tous ces besoins ? 
+ ARIA 
+
+✅
+ Les propriétés et les états 
+ARIA met à disposition un certain nombre d'attributs afin de signifier aux 
+technologies d'assistance : 
+• un état (ouvert, fermé, désactivé, etc.), 
+aria-expanded  indique si un élément, comme un menu déroulant ou un 
+accordéon, est ouvert ou fermé. 
+• un libellé, 
+aria-label  fournit un libellé textuel lorsqu’un élément n’a pas de texte 
+visible. 
+• une description 
+aria-describedby associe un élément à une description visible ou cachée, 
+pour fournir des informations supplémentaires. 
+Comment prendre en compte tous ces besoins ? 
+ ARIA 
+
+😉
+ Coder accessible, 
+c’est coder correctement ! 
+Comment prendre en compte tous ces besoins ? 
+ HTML 
+😎
+ Le Dev avec un code de maître Jedi 🔥
+
+✅
+ Fournissez des textes 
+alternatifs (alt) descriptifs .
+alt=“un chiot malinois joue avec 
+une balle multicolor” Porteuse d’information 
+ Références RGAA : 1.1 [A] , 1.2 [A], 1.3 [A] Décorative 
+(ignorer les images) 
+Images 
+Légende  Références RGAA : 1.9
+Un chiot malinois plein d’énergie court 
+joyeusement à travers un champ 
+verdoyant, tenant fermement une balle 
+multicolore dans sa gueule, le regard vif 
+et les oreilles dressées, prêt pour une 
+nouvelle partie de jeu. Baliser les images légendées avec 
+<figure role="figure"> et <figcaption> 
+Les images légendées doivent être balisées 
+avec <figure> et <figcaption>. 
+<figure> 
+    <img src="chemin/vers/votre-image.jpg"  alt="">
+    <figcaption>Légende de la photo décrivant le  
+contenu de l'image.</figcaption> 
+</figure> 
+✅
+ Pour le contenu multimédia, incluez 
+des transcriptions et des sous-titres .
+John : Je suis Pour parce que… 
+Zara : Je suis contre parce que… sous-titre 
+✅
+ Pour le contenu multimédia, incluez de 
+l'audiodescription. Multimédia 
+ Références RGAA : 4.1 [A], 4.2 [A], 4.3 [A] , 4.4
+😁
+ Bonnes pratiques : Formulaires 
+✅
+ Utilisez <th> pour les en-têtes 
+de tableaux et attribuez des 
+attributs scope pour préciser s'ils 
+se rapportent à des colonnes, des 
+lignes, ou les deux. 
+✅
+ Fournissez des résumés de 
+tableaux si nécessaire pour 
+expliquer les données complexes. 
+
+ Baliser le titre des tableaux de 
+données avec la balise <caption> 
+●Lorsqu’un tableau de données est 
+introduit par un titre, celui-ci doit 
+être balisé avec <caption>. Tableaux 
+Références RGAA :  5.4 [A], 5.5 [A], 5.6 [A], 5.7 [A] 
+<table> 
+<caption> Les Différentes Races de Chiens et 
+Leurs Caractéristiques </caption> 
+[...] 
+<table> 
+
+✅
+ Utilisez <th> pour les en-têtes de 
+tableaux simple. les cellules d'en-têtes 
+doivent indiquer si elles titres une ligne ou 
+une colonne via l’attribut 
+●La totalité d’une colonne : scope="col". 
+●La totalité d’une ligne : scope="row". 
+✅
+ Fournissez des résumés de tableaux si 
+nécessaire pour expliquer les données 
+complexes. <table> 
+   <caption>Températures moyennes  
+mensuelles des 3 plus grandes villes  
+de France.</caption> 
+   <tr> 
+      <td>&nbsp;</td> 
+      <th scope="col" >Paris</th> 
+      <th scope="col" >Marseille</th> 
+      <th scope="col" >Lyon</th> 
+   </tr> 
+   <tr> 
+      <th scope="row" >Juin</th> 
+      <td>22°C</td> 
+      <td>28°C</td> 
+      <td>26°C</td> 
+   </tr> 
+</table> 
+
+😁
+ Bonnes pratiques: tableaux complexe 
+Il faut expliquer l’organisation du tableau 
+avec l’élément <caption>. 
+Il n’est pas obligatoire que le résumé soit 
+affiché, mais il doit être disponible pour 
+les technologies d’assistance (via un 
+masquage “hors écran” par ex.) 
+
+❌
+< span  class  = “important ” >✅
+< strong  >
+✅
+ Utiliser des balises natives. 
+😡
+ ne pas constamment utiliser des balises universelles  !Structure des contenus 
+Titre Référence RGAA : 9.1 [A]
+<h1>Un chiot malinois en plein jeu </h1>
+<h2>Description générale </h2>
+Un chiot malinois court à travers un champ 
+verdoyant, tenant une balle multicolore dans sa 
+gueule. 
+<h3>L'environnement du chiot  </h3>
+● Le chiot évolue dans un espace naturel, entouré d'herbe 
+verte. La scène évoque la liberté et la joie du jeu en plein air. 
+💡
+ Bonnes pratiques d’accessibilité 
+●Un seul <h1>  par page pour définir le 
+sujet. 
+●Maintenir une progression logique (ne 
+pas sauter de  <h2>  à <h4>  directement). 
+
+Source : (Semrush) Html semantique  😡
+ 😍
+Pas bien Très bien 
+😍
+Très bien Structure du document Références  RGAA : 9.2 [A] 
+Utiliser les balises suivantes pour 
+structurer la page : 
+<header> <nav> <main> <footer> 
+<main> doit être unique et <nav>  
+réservé 
+aux zones de navigation interne. 
+Citation Références RGAA : 9.3 [A] 
+Les éléments présentés sous forme de citation 
+doivent utiliser la structure adaptée : 
+●Citation en ligne <q> 
+<q> : Pour une citation courte et intégrée dans une 
+phrase 
+<p>Comme l’a dit Josh Billings : <q>Un chien est la seule 
+chose sur terre qui vous aime plus qu’il ne s’aime 
+lui-même. </q></p>
+Comme l’a dit Josh Billings 
+“Un chien est la seule chose 
+sur terre qui vous aime plus 
+qu’il ne s’aime lui-même.” 
+
+Citation Références RGAA : 9.3 [A] 
+Les éléments présentés sous forme de citation 
+doivent utiliser la structure adaptée : 
+●Citation en bloc <blockquote> 
+<blockquote>  : Pour une citation longue ou 
+nécessitant une mise en avant distincte. 
+<blockquote 
+cite="https://fr.wikipedia.org/wiki/Josh_Billings"> Un chien 
+est la seule chose sur terre qui vous aime plus qu’il ne 
+s’aime lui-même. </blockquote> 
+“Un chien est la seule chose 
+sur terre qui vous aime plus 
+qu’il ne s’aime lui-même.” 
+Josh Billings 
+Liens
+✅
+ Incluez des liens d’évitement pour 
+permettre aux utilisateurs de passer 
+directement au contenu principal. 
+Référence RGAA : 12.7[A] Mettre en place un lien d’évitement 
+Un lien d’évitement du type « Aller au contenu » 
+doit systématiquement être présent sur chaque 
+page afin de faciliter la navigation au clavier. 
+Ce lien doit être le premier élément interactif 
+dans le code HTML. 
+Liens explicites 
+L’intitulé d’un lien  correspond au contenu 
+textuel présent entre la balise ouvrante 
+<a> et fermante </a>  (alternative d’images 
+comprise). 
+✅
+ Assurez-vous que le texte des liens 
+indique clairement la destination ou l'action. 
+😡
+ évitez : “cliquez ici"  !
+<a href="image.png " target ="_blank ">Voir l'image du chiot joueur</ a>
+Voir l'image du chiot joueur 
+Référence RGAA : 6.1 [A]
+Liens 
+Liens images : Il s'agit du contenu de 
+l'alternative textuelle de l'image comprise entre 
+<a href="…"> et < /a> 
+<a href="image.png " target ="_blank ">
+    <img src="image.png " alt="Un chiot joueur tenant une balle en corde 
+multicolore ">
+    Voir l'image du chiot joueur 
+</a>
+Référence RGAA : 6.1 [A] 6.2 [A] 
+Lien composite  : il s'agit de l'ensemble du 
+texte et du contenu de l'alternative textuelle de 
+la ou des images compris entre < a href="…"> et 
+</a>.
+Voir l'image du chiot joueur 
+
+✅
+ Utilisez des éléments 
+<button> pour les actions. 
+ 
+😡
+ pas des <a> sans href  !
+CRITÈRES RGAA 
++
+BENEFICES 😁
+ Bonnes pratiques : Liens et boutons 
+Formulaires 
+✅
+ <label>  : Entoure le texte qui décrit le 
+champ. 
+✅
+ for : Attribut du <label>  qui indique à quel 
+champ il appartient. 
+✅
+ id : Attribut du champ qui doit 
+correspondre exactement à la valeur du for Étiqueter un champ de formulaire:  <label> , for, et id
+<form> 
+<label  for="nom"> Nom :</ label >
+<input  type="text" id="nom">
+<label  for="email ">Adresse mail (requis) :</ label >
+<input  type="email " id=" email " required> 
+</form> 
+Références RGAA : 11.1 [A], 11.2 [A], 11.3 [AA] 
+✅
+ Les champs obligatoires doivent être 
+clairement indiqués “required ” :
+Un signe distinctif (symbole « * », mention « 
+(obl igatoire)  », etc.) doit être prévu dans l’intitulé 
+de chaque champ obligatoire. 
+✅
+ Utiliser l’attribut autocomplete pour 
+faciliter le remplissage automatique des 
+champs 
+<form> 
+<label  for="nom"> Nom :</ label >
+<input  type="text" id="nom"autocomplete ="name" 
+required >
+<label  for="email ">Adresse mail (requis) :</ label >
+<input  type="email " id=" email " autocomplete =”email ” 
+required> 
+</form> 
+Les valeurs possibles pour l’attribut autocomplete  
+sont normées. 
+Formulaires 
+✅
+ Prévoir des messages d’erreur 
+explicites et des suggestions de correction 
+Chaque fois qu’un formulaire est susceptible de 
+renvoyer des erreurs, les éléments suivants 
+doivent être prévus : 
+●Des messages d’erreur explicites. 
+●Des suggestions de correction, si 
+nécessaire. 
+Référence RGAA  : 11.10 [A] Formulaires 
+ Attention 
+L’attribut placeholder  ne peut pas faire 
+office d’intitulé, notamment car il disparaît 
+lors de la saisie. 
+Il peut être utilisé pour des aides à la 
+saisie secondaires, non nécessaires à la 
+compréhension du champ. De plus, il doit 
+reprendre le contenu de l’attribut title 
+lorsque celui-ci est présent. 
+.
+Références RGAA : 11.1 [A], 11.2 [A], 11.3 [AA] 
+Formulaires 
+
+✅
+ Assurez une navigation au 
+clavier pour tous les éléments 
+interactifs. 
+Navigation 
+Références RGAA : 10.7 [A] 
+✅
+Garantir la visibilité de la prise de focus 
+au clavier 
+La visibilité du focus au clavier est définie par 
+la propriété CSS outline. Elle ne doit pas être 
+dégradée par rapport au style de focus natif du 
+navigateur. 
+✅
+Si le focus est stylisé par l'auteur, il doit 
+respecter le rapport de contraste 3:1 avec les 
+couleurs adjacentes. 
+Navigation 
+❌
+Eviter le JavaScript dans le menu pour 
+ne pas bloquer la navigation. 
+Parfois, le JavaScript sera utilisé pour réaliser 
+la navigation via les méthodes  onClick   et la 
+propriété  window.location.href  . C’est, de 
+manière générale, une très mauvaise pratique 
+pour l'accessibilité (et donc le SEO). En effet, 
+les technologies d'assistance n’auront aucun 
+moyen de distinguer cet élément d’un autre, 
+elles ne pourront pas identifier vers quelle 
+page il pointe. De plus, cela surcharge le 
+comportement par défaut du clavier, ce qui le 
+rend moins utilisable pour certains publics. 
+Navigation 
+✅
+ Veiller à ce que l’ordre de tabulation suive 
+la logique de l’ordre de lecture 
+L’ordre de tabulation doit suivre la logique de 
+l’ordre de lecture visuel de la page. ✅
+ Parmis ces 3 systèmes de navigations, deux 
+doivent être présents au moins : 
+●menu de navigation 
+●plan du site 
+●moteur de recherche. 
+Références RGAA :  12.1 [AA] Navigation 
+😁
+ Bonnes pratiques : Langue 
+✅
+ Déclarez la langue de la 
+page avec l'attribut lang dans 
+la balise <html>. ✅
+ Marquez les changements 
+de langue dans le texte avec 
+l'attribut lang approprié. 
+FR
+Références RGAA :  8.3 [A] 
+😁
+ Bonnes pratiques : Travail d’équipe 
+✅
+ Commenter des lignes de 
+code pour donner une 
+indication sur leur 
+fonctionnement, si besoin. 
+Un commentaire en HTML : 
+<!-- commentaire - –>
+Un commentaire en CSS : 
+/* commentaire */ 
+Pourquoi t’as 
+pas mis d’alt sur 
+les images ? Parce que les 
+images sont 
+décoratives ! 
+DIGITAL HANDICAP 
+Abonnez-vous 
+🥰
+
+Préparation 
+grille d’audit 
+Grille RGAA - DEV WEB  
+Le contexte de l’audit ? 
+Un audit peut intervenir à diverses occasions : 
+●Préparation à une labellisation ou à la rédaction et publication d'une 
+déclaration de conformité 
+●Réalisation d'un état de l'existant généralement pour trancher sur une 
+question de refonte 
+●Suivi d'un site en développement 
+ 
+●Audit de contrôle… 
+Préciser le contexte de l'audit va vous permettre d'adapter la préparation de 
+l'échantillon ainsi que les recommandations que vous ferez. 
+ https://ara.numerique.gouv.fr/ https://accessibilite.numerique.gouv.fr/methode/criteres-et-tests/ 
+
+Etablir les dérogations prévisibles 
+●Lister les cas de exemptions/dérogations présentes sur l'échantillon 
+●Si nécessaire, demander les justifications 
+Contenus exemptés   : 
+Certains contenus sont exemptés de l’obligation d’accessibilité et se situent hors champ de l’obligation légale  
+Dérogation pour charge disproportionnée   : 
+Les exigences légales en matière d’accessibilité sont mises en œuvre dans la mesure où elles ne créent pas une  
+charge disproportionnée pour l’organisme concerné. 
+ 
+Comment prendre en compte tous ces besoins ? 
+Certains contenus sont exemptés de l’obligation d’accessibilité et se situent hors champ de 
+l’obligation 
+légale : 
+●Les fichiers disponibles dans des formats bureautiques publiés avant le 23 
+septembre 2018,  sauf 
+s’ils sont nécessaires à l’accomplissement d’une démarche administrative ; 
+●Les contenus audio et vidéo préenregistrés publiés avant le 23 septembre 2020  ;
+●Les contenus audio et vidéo diffusés en direct  ;
+●Les cartes et les services de cartographie en ligne, sous réserve que, s’agissant des carte 
+destinées à fournir une localisation ou un itinéraire, les informations essentielles soient 
+fournies sous une forme numérique accessible ; 
+●Les contenus des sites internet et des applications mobiles qui ne sont ni nécessaires à 
+l’accomplissement d’une démarche administrative active ni mis à jour ou modifiés après 
+le 23 septembre 2019, notamment les archives. 
+ Audit 
+
+Comment prendre en compte tous ces besoins ? 
+Evaluation de la conformité 
+Pour le référentiel technique du RGAA 4, un critère peut avoir l’un des 4 statuts suivants : 
+●Conforme : l’ensemble des tests applicables sont réussis 
+●Non conforme  : un test applicable est échoué au moins 
+●Non applicable  : il n’y a pas de contenu concerné par le critère 
+●Non testé  : le critère n’a pas été testé (nouveau statut permettant de mesurer 
+la progression de l’audit). 
+ Audit 
+
+Images 
+1. Images 
+ Les directives RGAA sur les textes alternatifs : 
+○1.1 Chaque image doit avoir un attribut alt qui décrit fidèlement son contenu ou sa fonction 
+○1.3 Pour chaque image porteuse d’information  ayant une alternative textuelle , cette alternative  
+est-elle pertinente (hors cas particuliers) ? 
+ 
+https://www.havas-voyages.fr/ Comment prendre en compte tous ces besoins ? 
+ Images 
+
+Cadres 
+2. Cadres 
+ 
+Les directives RGAA sur les cadres (iframe) : 
+○2.1 Chaque cadre  a-t-il un titre de cadre  ? 
+○2.2 Pour chaque cadre  ayant un titre de cadre , ce titre de cadre est-il pertinent ? 
+ 
+https://www.sncf-connect.com/bons-plans 
+ 
+
+Couleurs 
+Couleurs 
+3. Couleur 
+ Les directives RGAA sur les couleurs : 
+○3.1 Dans chaque page web, l’information ne doit pas être donnée uniquement par la couleur.  
+Cette règle est-elle respectée ? 
+○3.2 Dans chaque page web, le contraste entre la couleur du texte et la couleur de son  
+arrière-plan est-il suffisamment élevé (hors cas particuliers) ? 
+https://www.eemi.com/ 
+
+Multimédia 
+4. Multimédia 
+○4.4 Pour chaque média temporel synchronisé pré-enregistré ayant des sous-titres synchronisés,  
+ces sous-titres sont-ils pertinents ?  
+○4.8 Chaque média non temporel a-t-il, si nécessaire, une alternative ?  
+○4.10 Chaque son déclenché automatiquement est-il contrôlable par l’utilisateur ? 
+Comment prendre en compte tous ces besoins ? 
+ Multimédia 
+https://france-accdom.org/ 
+
+Tableaux 
+5. Tableaux 
+○5.4 Pour chaque tableau de données ayant un titre, le titre est-il correctement associé au  
+tableau de données ?  
+○5.6 Pour chaque tableau de données, chaque en-tête de colonnes et chaque en-tête de lignes  
+sont-ils correctement déclarés ? 
+○5.7 Pour chaque tableau de données, la technique appropriée permettant d’associer chaque  
+cellule avec ses en-têtes est-elle utilisée ? 
+ 
+Comment prendre en compte tous ces besoins ? 
+ Tableaux 
+https://lekiosque.finances.gouv.fr/site_fr/conjoncture/fab.asp https://metropole.rennes.fr/les-horaires-des-piscines?idParent=10&typeParent=node 
+Liens 
+6. Liens 
+○6.1 Chaque lien est-il explicite (hors cas particuliers) ? 
+○6.2 Dans chaque page web, chaque lien a-t-il un intitulé ? 
+ 
+ 
+Comment prendre en compte tous ces besoins ? 
+ Liens 
+
+Scripts 
+7. Scripts 
+○7.1 Chaque script est-il, si nécessaire, compatible avec les technologies d’assistance ? 
+○7.3 Chaque script est-il contrôlable par le clavier et par tout dispositif de pointage ? 
+ 
+ 
+Comment prendre en compte tous ces besoins ? 
+ Scripts 
+
+Eléments 
+obligatoire 
+8. Elément obligatoire 
+○8.2 Pour chaque page web, le code source généré est-il valide selon le type de document  
+spécifié ? 
+○8.3 Dans chaque page web, la langue par défaut est-elle présente ? 
+○8.4 Pour chaque page web ayant une langue par défaut , le code de langue est-il pertinent ? 
+○8.5 Chaque page web a-t-elle un titre de page ? 
+○8.6 Pour chaque page web ayant un titre de page , ce titre est-il pertinent ? 
+ 
+ 
+Comment prendre en compte tous ces besoins ? 
+ Elément obligatoire 
+
+Structuration 
+de l’information 
+9. Structuration de l’information 
+○9.1 Dans chaque page web, l’information est-elle structurée par l’utilisation appropriée de titres ? 
+ 
+ 
+Comment prendre en compte tous ces besoins ? 
+ Structuration de l’information 
+
+Présentation 
+de l’information 
+10. Présentation de l’information 
+○10.7 Dans chaque page web, pour chaque élément recevant le focus, la prise de focus est-elle  
+visible ? 
+○10.8 Pour chaque page web, les contenus cachés ont-ils vocation à être ignorés par les  
+technologies d’assistance ? 
+ 
+ 
+Comment prendre en compte tous ces besoins ? 
+ Présentation de l’information 
+
+Formulaires 
+11. Formulaire 
+○11.1 Chaque champ de formulaire a-t-il une étiquette  ? 
+○11.2 Chaque étiquette associée à un champ de formulaire est-elle pertinente ? 
+○11.9 Dans chaque formulaire , l’intitulé de chaque bouton est-il pertinent ? 
+○11.10  Dans chaque formulaire , le contrôle de saisie est-il utilisé de manière pertinente ? 
+ 
+ 
+Comment prendre en compte tous ces besoins ? 
+ Formulaire 
+
+Navigation 
+12. Navigation 
+○12.7 Dans chaque page web, un lien d’évitement ou d’accès rapide à la zone de contenu  principal  
+est-il présent (hors cas particuliers) ? 
+○12.8 Dans chaque page web, l’ordre de tabulation est-il cohérent  ? 
+ 
+ 
+Comment prendre en compte tous ces besoins ? 
+ Navigation 
+
+Consultation 
+13. Consultation 
+○13.1 Pour chaque page web, l’utilisateur a-t-il le contrôle de chaque limite de temps modifiant le  
+contenu ? 
+○13.2 Dans chaque page web, l’ouverture d’une nouvelle fenêtre ne doit pas être déclenchée sans  
+action de l’utilisateur. Cette règle est-elle respectée ? 
+○13.7 Dans chaque page web, les changements brusques de luminosité ou les effets de flash  
+sont-ils correctement utilisés ? 
+○13.8 Dans chaque page web, chaque contenu en mouvement ou clignotant est-il contrôlable par  
+l’utilisateur ? 
+●
+ 
+ 
+Comment prendre en compte tous ces besoins ? 
+ Consultation 
+
+Outils 
+Aucun outil de tests automatiques ne permet d’assurer qu’un site est 100% conforme aux règles 
+d’accessibilité. 
+●Assistant RGAA  : outil pour vérifier les critères RGAA 
+●Accessibiliy Insights  : outil pour estimer le niveau d’accessibilité 
+●W3C Easy checks 
+●HeadingsMap  : outil pour voir la hiérarchie des titres 
+●NVDA : lecteur d'écran pour personnes aveugles et malvoyante 
+●W3C Validateur HTML  : outil pour analyser les erreurs dans le code 
+●WCAG Contrast Checker  : outil pour identifier les contrastes couleur sur un site web 
+
+Référentiel 
+●Référentiel Général d’Amélioration de  
+l’Accessibilité 
+WCAG 
+●Web Accessibility Initiative 
+●WCAG 2.1 
+●Techniques WCAG 2.1  (ARIA) 
+.
+HTML 
+●HTML 5.1 
+●MDN 
+ARIA 
+●WAI ARIA 1.1 
+●WAI-ARIA 1.1 Authoring  
+Practices 
+resources 
+Resources 
+
+Resources 
+●Bible de l’accessibilité numérique : WCAG 
+●Site gouvernement : RGAA  et Design Gouv 
+●Ideance blog https://ideance.net/blog/467/accessibilite-ux-ui-design/ 
+●Désigner un web accessible et inclusif 
+https://design-accessible.fr/ressources/lang:fr 
+●Blog de Stéphanie Walter 
+https://stephaniewalter.design/fr/blog/categorie/accessibilite/ 
+●Site La checklist du designer 
+https://design-accessible.fr/checklist#livrables 
+
+Découverte 
+●Bible de l’accessibilité numérique : WCAG 
+●Site gouvernement : RGAA  et Design Gouv 
+●Pause LSF : application mobile pour apprendre la Langue des 
+Signes Françaises (LSF) 
+○Version Google play et Apple Store 
+
+Films inclusif 
+●Intouchables   : film sur une personne qui aide une personne 
+handicapé très riche. 
+●Forrest Gump  : film sur un jeune homme handicapé mental qui va 
+mener une vie extraordinaire. 
+●Hors normes  : film sur des éducateurs accompagnant de jeunes 
+autistes. 
+●Ray : film sur l’histoire vrai du grand pianiste aveugle Ray Charles. 
+●La beauté du geste  : film sur l’histoire vrai d’une boxeuse japonaise 
+sourde. 
+●Rain Man  : film sur deux frères dont un autiste savant qui    
+apprennent à se connaître. 
+tanaguru 
+😎
+ A11Y family 🤗
+
+Nous contacter 
+Peter Nkoulouh Nkoulouh 
+Co-fondateur 
+p.nkoulouh@digitalhandicap.fr  Salvatore Guadagnino 
+Co-fondateur 
+s.guadagnino@digitalhandicap.fr  
+
+Merci 
+pour votre écoute ! 
+😁

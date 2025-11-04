@@ -1,0 +1,439 @@
+Introduction to digital accessibility
+BASIC PRINCIPLES
+Teresa Colombi -Sr User Researcher /UX Designer 
+teresa@ludotic.com
+teresa.colombi@univ -cotedazur.fr
+Introduction
+2
+Who I am
+R&D
+PhD
+I/O PsychologyNUI
+MMICognitive Psychology
+VRARMental workload
+Eye TrackingHuman Factors
+TeachingHCI
+
+Introduction
+3
+If we say accessibility , what do you think of?
+
+01
+03
+02
+04Definitions
+French and international 
+lawsSpecial needs
+How to go further
+
+01
+Definitions
+What accessibility  is
+
+01 Definitions
+6
+General definition
+Digital accessibility means making digital content
+and services understandable and usable by people 
+with disabilities
+enabling everyone , regardless of their physical or 
+mental abilities, to perceive, understand, navigate, 
+interact, and contribute with websites, mobile 
+applications and digital content in general (.pdf, 
+https://accessibilite.numerique.gouv.fr/
+Goal  : Ensure equal access to information and online services for all 
+users
+UN official symbol
+01 Definitions
+7
+The « web for all » principle
+Ambition of Tim Berners -Lee, inventor of the Web and founder of the W3C :
+To make the Web and its services available to ALL INDIVIDUALS, regardless of their hardware or 
+software, network infrastructure, native language, culture, geographical location, or physical and 
+mental abilities.
+01 Definitions
+8
+Pro & cons of Accessibility
+- +
+oSignificant cost in 
+projects (to fix the issues)
+oOften perceived as a 
+constraint that 
+disrupts/perturb 
+developers' workoEthical approach
+oSynergies with 
+approaches such as, SEO, 
+CSR or eco -design
+oErgonomics is at the core 
+of concerns (concepts of 
+usefulness and usability)
+Accessibility is often perceived negatively because “it doesn’t concern us”
+ACCESSIBILITY ISOFTEN PERCEIVED NEGATIVELY BECAUSE
+ IT
+DOESN
+ TCONCERN US
+
+01 Definitions
+9
+9
+https://www.microsoft.com/design/inclusive/
+We can all find ourselves in a situation of disability
+WECAN ALL FIND OURSELVES INASITUATION OF
+DISABILITY
+01 Definitions
+10
+Main objectives
+https://userpeek.com/blog/w
+cag-principles -overview -
+guidelines -and-best -
+practices/
+01 Definitions
+11
+Aging  and disability
+Digital can be both an opportunity for inclusion and a threat of digital divide...
+DIGITAL CAN BEBOTH ANOPPORTUNITY FOR
+INCLUSION AND ATHREAT OFDIGITAL DIVIDE ...
+01 Definitions
+12
+
+01 Definitions
+13
+If the person with a disability encounters limitations, it is OUR fault
+IFTHE PERSON WITH ADISABILITY ENCOUNTERS
+LIMITATIONS , ITISOUR FAULT
+01 Definitions
+14
+Handicap
+People « in situation of handicap »
+People with special  needsLimitation
+RestrictionDisability
+Impairment
+01 Definitions
+15
+A last exemple
+Disability is a SITUATION not a CONDITION
+DISABILITY ISASITUATION NOT ACONDITION
+01 Definitions
+16
+ in a « disability condition » when
+
+02
+Special  needs
+Sensory, motor and cognitive specificities
+
+02 Special  needs
+18
+UX Design and Accessibility
+Peter MORVILLE
+UX Design combines both pragmatic criteria (usefulness, usability and 
+accessibility, etc.) and value judgments (interest, desirability, credibility, etc.).
+02 Special  needs
+19
+Different  types of disabilitieshttps://www.oneeducation.org.uk/what -are-the-
+different -types -of-disabilities/
+
+02 Special  needs
+20
+Different  types of disabilities
+Source : https://alignetvous.today/mntest/formation -handicap/  
+02 Special  needs
+21
+80% of disabilities are invisible...
+Erreur 404 - Vidéo de sensibilisation sur le handicap invisible
+https://youtu.be/KfLyUDMTIdQ?si=NmCpIjuR6szflOGf  
+
+02 Special  needs
+22
+Color  impairment  :
+About 8% of men and 0.5% of women are color blind!
+Normal vision
+Vision with deuteranopia
+Absence/failure of one of the 3 
+receptors
+If absent:
+Blue = Tritanopia (rare)
+Green = Deuteranopia
+Red = Protanopia
+→ Color should not be the only way to convey information
+01 Accessibilité numérique : définition et enjeux
+2
+3But concretely
+Atalan , a web site to experiment  : https://www.atalan.fr/agissons/
+
+02 Special  needs
+24
+Do & 
+  for 
+some  disabilities
+
+02 Special  needs
+25
+Do & 
+  for 
+some  disabilities
+
+02 Special  needs
+26
+Do & 
+  for 
+some  disabilities
+
+02 Special  needs
+27
+Do & 
+  for 
+some  disabilities
+
+02 Special  needs
+28
+How many  users  are affected ?https://ddiy.co/web -accessibility -statistics/
+
+02 Special  needs
+29
+How many  users  are affected ?https://ddiy.co/web -accessibility -statistics/
+
+02 Special  needs
+30
+How many  users  are affected ?https://www.sheribyrnehaber.com/ten -basic -accessibility -facts/
+
+02 Special  needs
+31
+service is not of 
+interest to people 
+accessible will degrade 
+the UX for the average 
+Designing  an 
+accessible site limits  
+the possibilities  
+(actions, 
+multimedia
+an audit to do from 
+ complicated and/or 
+ expensive, for a 
+6 preconceived  ideas
+02 Special  needs
+32
+4EXEMPLE : #CAPTION THIS -ACCÈS AUX CONTENUS VIDÉO POUR LES SOURDS De multiples raisons pour agir, lesquelles ?
+Social Responsibility 
+Applying an ethical 
+approach that benefits 
+everyoneComply with legal 
+obligations  
+Avoid finesImprove  technical  
+robustness
+For some  companies :
+Strengthen brand 
+image and/or avoid 
+possible " bad buzz "For some  companies :
+Expand the audienceProvide  unique UX 
+(vocal interfaces, new 
+interactions
+
+03
+French and 
+international laws
+
+03 Cadre Juridique
+34
+International legal  framework
+United States
+Americans with Disabilities Act ( ADA )
+The ADA is an anti -discrimination law that offers equal protection to people with 
+disabilities in the U.S. across many areas, from employment to transportation. 
+Section 508 of the Rehabilitation Act of 1973
+Section 508 requires that U.S. federal agencies ensure the accessibility of their 
+information and communications technology (ICT), which includes websites, software, 
+and mobile apps as well as digital documents and hardware. The law adopts WCAG 2.0 
+Level A conformance as the standard for compliance. 
+03 Cadre Juridique
+35
+International legal  framework
+European Accessibility Act -Directive (EU) 2019/882
+The European accessibility act covers products and services that have been identified as 
+being most important for persons with disabilities while being most likely to have diverging 
+accessibility requirements across EU countries.
+Persons with disabilities and elderly people will benefit from:
+more accessible products and services in the market 
+accessible products and services at more competitive prices
+fewer barriers when accessing transport, education and the open labour market
+more jobs available where accessibility expertise is needed
+03 Cadre Juridique
+36
+French legal  framework
+2009
+Creation  of1er 
+RGAA (Référentiel
+Général pour 
+l’ Accessibilité des 
+Administrations )2016
+▪Publication                                      
+ofEU Directive
+2016/2102
+▪Law n °2016 -1321 
+(“République 
+numérique”) 
+strengthens Article 
+47 duties and 
+extends the 
+obligation to parts of 
+the private sectorObligations & Sanctions
+2019
+▪Decree
+«Accessibilité
+Numérique »
+setting concrete  
+obligations 
+(accessibility  
+statement  content, 
+homepage  notice, 
+timelines), and 
+sanctions
+▪Révision et 
+renommage du 
+RGAA (Référentiel
+Général pour 
+l’ Amélioration de 
+l’ Accessibilité )2025
+Conformity is 
+assessed against 
+EN 301 549 
+(harmonized 
+with WCAG 2.1); 
+entities covered 
+include the 
+public sector and 
+private 
+companies with 
+≥ €250M€2023
+Ordinance 
+strengthens 
+sanctions under 
+Art. 47 
+(25k€/50k€)
+2005
+«Loi Handicap »for 
+equal rights and 
+opportunities, article 
+47 of which targets 
+the State's online 
+services
+03 Cadre Juridique
+37
+French new 2025 directive
+Companies
+✓Turnover + 2M
+✓More of 10 employeesPublic sector
+✓Institutions
+✓Private law companies with public service 
+delegationAllow  access  to information
+For all digital information:
+✓Internet / Intranet / Extranet
+✓Mobile applications
+✓Software
+✓Digital street  furniture1
+Inform  / Make  public
+Publish an accessibility statement containing:
+✓The entity's accessibility policy
+✓Current level of compliance
+✓A multi -year plan covering a maximum of 3 
+years
+✓A detailed annual action plan2
+Listen  / Dialogue
+✓Allow malfunctions to be reported
+✓Provide a replacement within a reasonable timeframe3
+
+03 Cadre Juridique
+38
+https://www.culture.gouv.fr/Accessibilite -partiellement -conforme   https://www.laposte.fr/accessibilite -particuliers  
+Example of 
+accessibility  
+statementExamples
+03 Cadre Juridique
+39
+Examples
+Source : https://www.jeunes.gouv.fr/
+Les obligations déclaratives :
+Affichage du niveau de conformité + déclaration
+publiée
+Les sanctions :
+20 000 
+ en
+ des éléments  
+des sanctions Ordonnance 6 septembre 2023 accessibilité sites web publics 
+renforcée | vie -publique.frEn bas de la page d’accueil
+04
+How to go further
+Tips & tools
+
+04 Aller plus loin
+41
+WCAG standards
+Référence (FR) : https://www.w3.org/WAI/standards -guidelines/wcag/fr
+
+04 Aller plus loin
+42
+French RGAA
+42
+Thématique
+Ensemble des tests à réaliser, 
+avec la marche à suivre
+Cas particuliers et/ou                    
+Notes techniques
+Correspondance avec les 
+normes internationales avec 
+précision des niveaux A et AALien vers la définition                         
+des termes techniques dans 
+le glossaireLien de partage
+1. Images 2. Cadres 
+3. Couleurs 4. Multimédia
+5. Tableaux 6. Liens
+7. Scripts 8. Eléments obligatoires
+9. Structuration  de 
+l’information10. Présentation         de 
+l’information
+11 Formulaires 12. Navigation
+13. Consultation13 thématiques / 106 critères
+https://accessibilite.numerique.gouv.fr/methode/criteres -et-tests/#5
+
+04 Aller plus loin
+43
+Quelques outils pratiques
+4
+3Chrome Firefox EdgeWCAG Contrast Checker : 
+évaluation des contrastes AA et 
+AAA, simulateur de daltonisme
+Chrome | Firefox | Edge
+Couleurs1
+RGAA
+Critère 3. 2. 1
+
+04 Aller plus loin
+44
+Quelques outils pratiques
+44Chrome Firefox EdgeHeadingsMap :                                                  
+tracé de 
+ sémantique
+avec détection automatique des erreurs
+Chrome | Firefox | Edge
+Structuration          de 
+l’information2
+RGAA
+Critère 9. 1. 1
+
+04 Aller plus loin
+45
+Source : https://youtu.be/1RQ_HgoqpT0?si=dFGIikNXCso5qdXvThématique 5 
+RGAA
+  Tableaux 
+(Critères 5.1 -5.8)
+
+04 Aller plus loin
+47
+Un petit quiz  pour finir !
+
+Thank you for your attention!
+Teresa Colombi 
+  Sr User Researcher /UX Designer, CEO
+Any question?
+Teresa@ludotic.com
+Teresa.Colombi@univ -cotedazur.fr 

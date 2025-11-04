@@ -1,0 +1,691 @@
+Accessibility of interactive 
+systems
+Master 2 Informatique IHM
+Accessibility of interactive systems
+2d course: Pierre Thérouanne
+
+2 Plan
+1.Introduction : exemples et enjeux de l’accessibilité (cf. 
+également Séance 1 de T. Colombi )
+2.Situations de handicap et différents types de déficiences
+3.L’accessibilité pour les personnes aveugles et 
+malvoyantes
+4. Difficultés rencontrées et recommandations pour les 
+situations de handicaps
+5.Evolution : accessibilités normative et effective, agents 
+intelligents d’assistance
+1. Introduction : exemples et enjeux
+
+4 Remue -méninges
+À partir de la séance 1 (Teresa Colombi ) et de vos propres 
+connaissances / expériences /
+❖Qu’est -ce que le handicap ?
+❖Faut -il assurer l’accessibilité à tout prix ,
+5 Exemple de problème rencontré
+Également avec sous -titres sur : https://www.youtube.com/watch?v=oB3LelGzFII
+6 Qui bénéficie de l’accessibilité ?
+A.Les utilisateurs
+▪Les personnes dites handicapées ;
+▪Les personnes en incapacité temporaire ;
+▪Les utilisateurs d’appareils, logiciels et navigateurs différents ;
+▪Les utilisateurs de technologies à capacité limitée ;
+▪bénéfices pour TOUS les utilisateurs *.
+
+7 Qui bénéficie de l’accessibilité ?
+B. Les acteurs de la conception
+▪Part de marché potentiel plus grande ;
+▪Pérennité du site (séparation fond et forme, universalité du 
+code) et coût de maintenance réduit ;
+▪Meilleures performances de tous les utilisateurs ;
+▪Amélioration de l’image de marque ;
+▪Fidélisation des visiteurs.
+▪Conformité à la loi (cf. Séance 1)
+2. Situations de handicap et différents 
+types de déficiences
+
+9 Le handicap
+« […] toute limitation d'activité ou restriction de 
+participation à la vie en société subie dans son 
+environnement par une personne en raison d'une altération 
+substantielle, durable ou définitive d'une ou plusieurs 
+fonctions physiques, sensorielles, mentales, cognitives ou 
+psychiques, d'un polyhandicap ou d'un trouble de santé 
+invalidant. » 
+Loi du 11 février 2005 pour l'égalité des droits et des chances, la participation et la 
+citoyenneté des personnes handicapées (article 2)
+10 Classification Internationale des Handicaps (O.M.S. [Wood], 1980)
+•Ladéficience : 
+▪Nature de l'atteinte, de la lésion ou de l'altération d'une structure 
+ou fonction psychologique, physiologique ou anatomique, 
+temporaire ou permanente 
+➢Aspect lésionnel du handicap
+•L'incapacité : 
+▪Conséquences de la déficience par les limitations des capacités à 
+exécuter une activité
+➢Aspect fonctionnel du handicap 
+•Le handicap : 
+▪Désavantage social
+➢Aspect situationnel du handicap 
+11Classification internationale du Fonctionnement, 
+du handicap et de la santé (CIF, O.M.S., 2001)
+Extrait de Barral (2007)
+CIH (1980)
+CIF (2001)
+12 Rioux (1997)
+Adapté de Barral (2007)Modèle individuel Modèle social
+Le handicap comme pathologie 
+individuelleLe handicap comme pathologie 
+sociale
+2 variantes :
+-Approche biomédicale : 
+curative
+-Approche réadaptative : 
+fonctionnelle2 variantes :
+-Approche environnementale : 
+accessibilisation
+-Approche politique : droits de 
+l’hommes
+13 Déficience visuelle
+•Cécité : 
+▪Acuité visuelle du meilleur œil après correction : < 1/20 de la 
+normale ou un champ visuel inférieur à 10 °
+•Malvoyance :
+▪Acuité comprise entre 1/20 et 4/10
+•Vision touchée :
+▪Périphérique
+▪Centrale
+▪Totale mais floue
+
+14 Visual impairment
+285 millions people with visual 
+impairment in the world
+39 millions blind 
+people2 millions people 
+with visual 
+impairment in 
+France
+
+15 Déficiences visuelles : daltonisme
+
+16 Déficiences visuelles : DMLA
+Dégénérescence maculaire liée à l’âge (DMLA)
+
+17 Déficiences visuelles : cataracte
+
+18 Déficiences visuelles : glaucome
+
+19 Déficiences visuelles : rétinite pigmentaire
+
+20 Déficiences visuelles : rétinopathie diabétique
+
+21 Déficiences visuelles : nystagmus
+
+22 Déficiences visuelles : cécité
+
+23 Simulation
+https://aveuglesdefrance.org/eyeview -lapplication -de-la-federation -des-aveugles -de-france/
+Edit 2025 : sur AppStore, mais 
+non fonctionnel avec IOS
+24 Traitements médicaux
+•Actions chirurgicales 
+➢Glaucome
+•Produits médicamenteux
+➢Glaucome
+➢DMLA
+•Implants intraoculaires
+➢Cataracte
+•Greffes
+➢Maladie de la cornée
+•Thérapie génique
+➢Rétinite pigmentaire (recherches en cours)
+
+25 Déficience auditive
+•Surdité de transmission :
+▪Transmission du son difficile, que les sons soient graves ou aigus 
+•Surdité de perception :
+▪Déformation du son due à des lésions de la cochlée ou des voies 
+nerveuses (les son s aigus  sont  souvent  les plus affectés )
+
+26 Déficience auditive
+•Causes diverses :
+▪Vieillissement 
+▪Maladies ou infections 
+▪Certains médicaments
+▪Traumatismes acoustiques et exposition régulière un volume 
+sonore importante
+
+27 Déficience auditive
+•4 degrés de surdité :
+▪Légère : perte auditive entre 20 et 40 dB
+▪Moyenne : perte auditive entre 40 et 70 dB
+▪Sévère : perte auditive entre 70 et 90 dB
+▪Profonde : perte auditive supérieure à 90 dB
+
+28 Déficience motrice
+•Atteinte partielle ou totale de la motricité :
+▪Atteinte des membres supérieurs et/ou inférieurs
+
+29 Déficience motrice
+•4 origines possibles :
+▪Cérébrale : 
+Lésions précoces des structures du cerveau (IMC) ou tardives (AVC, 
+tumeur, traumatisme crânien)
+▪Médullaire : 
+Troubles de la conduction de l’influx nerveux moteur et sensitif 
+(traumatisme/maladie de la moelle épinière)
+▪Neuromusculaire : 
+Perte progressive de la force musculaire, souvent d’origine génétique
+▪Ostéo -articulaire : 
+Malformation d’un membre, déviations de la colonne vertébrale, etc.
+
+30 Déficience intellectuelle
+•Dysfonctionnement cognitif :
+▪limitation dans la rapidité des fonctions mentales sur le plan de 
+la compréhension, des connaissances et de la cognition
+•Causes diverses :
+▪Origine génétique
+▪Malformation cérébrale ou d’un dysfonctionnement du 
+métabolisme
+▪Accident pendant la grossesse ou au moment de la naissance
+▪Maladies contagieuses du nourrisson
+
+31 Déficience intellectuelle
+•Quelques exemples :
+▪Démence de type alzheimer
+▪Autisme
+▪Trisomie 21
+▪X fragile
+
+3. L’accessibilité pour les personnes aveugles 
+et malvoyantes
+
+33 Interface textuelle
+
+34 Interface Graphique
+
+35 Interface riche
+
+36 Interface riche
+
+37 Interface riche pour interfaces mobiles
+Densité informationnelle 
+réduite, moins 
+d’informations non 
+pertinentes
+38 La déficience visuelle
+285 millions de déficients visuels 
+dans le monde
+39 millions 
+d’aveugles dans le 
+monde 2 millions de 
+déficients 
+visuels en 
+France
+
+39 La synthèse vocale
+https://www.canal -u.tv/chaines/univcotedazur/accessibilite/1 -l-ordinateur -des-aveugles -la-synthese -vocale
+
+40 Moyens de navigation
+•5 moyens de navigation :
+-Pas à pas : utilisation des flèches
+-De lien en lien : utilisation de la tabulation 
+-Lecture automatique (Zéro + flèche bas ou inser +  flèche bas/2) 
+-Les raccourcis du lecteur d’écran
+-«Jaws » à « PC» virtuel
+
+41 Lecteur d’écran : exemples de raccourcis
+•Spécifiques au lecteur d’écran :
+-Inser + F7 : liste des liens
+-Inser + F10 : liste des fenêtres
+-Ctrl + origine/fin : début/ fin de la page
+-Alt + flèche bas : pour dérouler le menu
+-Inser + Echap : Rafraichissement de l’écran
+•Communs à la navigation :
+-Alt + flèche gauche/droite : précédent/suivant
+-Ctrl + f : rechercher un lien 
+-PGDN : page suivante pour sauter des zones de la page web
+-Alt + D : se placer dans la barre d’adresse
+-Maj + fin : sélection d’un mot ou d’une ligne
+
+42 L’utilisation d’une plage braille
+https://www.canal -u.tv/chaines/univcotedazur/accessibilite/3 -l-ordinateur -des-aveugles -utilisation -des-terminaux -mobiles
+
+43 Exercice
+Compte tenu de l’usage du lecteur d’écran et/ou de la plage 
+braille :
+❖Identifier des problèmes concrets rencontrés par les aveugles 
+lorsqu’ils naviguent sur Internet
+❖Envisagez des moyens/recommandations afin de leur assurer 
+l’accès aux contenus et fonctionnalités d’un site Web.
+
+44 Origines des problèmes
+•Certaines informations sont par nature difficiles à présenter de 
+façon autre que visuelle ;
+•Dans un environnement multi -tâche, perte de la disposition absolue 
+des éléments de l’écran qui facilitait la mémorisation des états et 
+des procédures ; 
+•L’actualisation permanente en ligne ;
+•Les concepteurs utilisent des outils pouvant rendre les contenus 
+partiellement ou totalement inaccessibles ;
+•les concepteurs ne sont pas forcément formés et sensibilisés au 
+respect des principes d’accessibilité ;
+•Nombreuses idées reçues sur les coûts de l’accessibilité. 
+Giraud, Uzan & Thérouanne (2011)
+
+4. Autres difficultés et recommandations 
+pour les  situations de handicaps
+46 Plusieurs niveaux d’intervention
+•Les aides techniques matérielles ou logicielles :
+▪Les aides informatiques pour la saisie de données ;
+▪Les aides informatiques à la sortie des données ;
+▪Les outils de traitement de l’information.
+•Les contenus eux -mêmes, leur structuration, leur 
+formatage
+47 Difficultés pour les déficients visuels
+•Couleurs déformées ou perdues
+•Acuité réduite pour tout le champ visuel
+•Perte de la continuité et de la cohérence de l’information 
+véhiculée
+•Pas d’accès aux informations visuelles :
+▪Contenus illisibles
+▪Appauvrissement de l’information donnée
+•Lenteur 
+
+48 Déficiences visuelles : daltonisme
+
+49 Accessibilité pour les déficients visuels
+•Considérer les spécificités des troubles pour analyser les 
+besoins :
+▪Modification de la luminosité ou couleurs
+▪Agrandissement de la taille des objets visuels et des contrastes
+▪Retranscription des informations visuelles en auditives, 
+audiodescription
+
+
+
+52 Accessibilité pour les déficients visuels
+•Considérer les spécificités des troubles pour analyser les 
+besoins. Par exemples :
+▪modification de la luminosité ou couleurs
+▪agrandissement de la taille des objets visuels et des contrastes
+▪retranscription des informations visuelles en auditives, 
+audiodescription
+▪éviter les liens génériques ( cliquez ici , Lire la suite , Détails ,…) 
+et/ou utiliser une alternative textuelle (balise <alt>)
+
+53 Difficultés pour la déficience auditive
+•Malentendants et sourds
+•Frein dans l’acquisition du langage : 
+▪le Web est avant tout un hypertexte
+▪80 % des personnes atteintes de surdité profonde sont illettrées 
+(estimation 2019, vs. 15% des entendants)
+▪lexique et syntaxe limités
+•Tous les sourds ne parlent pas la Langue des Signes 
+Française (LSF)
+
+54 Recommandations pour la déficience auditive
+•Traduction en LSF
+•Retranscription textuelle des vidéos
+•Textes simplifiés
+
+55 Difficultés pour les handicaps moteurs
+•Manque de dextérité, mouvements involontaires, 
+mouvement impossible, vont entraîner difficulté ou 
+impossibilité à :
+▪viser une zone cliquable
+▪déplacer le curseur
+▪effectuer deux opérations simultanées (e.g., enfoncer 2 touches 
+à la fois) 
+▪maintenir l’appui d’une touche
+▪double cliquer
+▪saisir des données en utilisant un clavier conventionnel
+
+56 Accessibilité et handicaps moteurs
+•Faciliter la discrimination visuelle des touches, la visée 
+ainsi que le maintien du doigt sur une touche de clavier
+http://copyplastic.com
+
+57 Accessibilité pour les handicaps moteurs
+•Faciliter la discrimination visuelle des touches, la visée 
+ainsi que le maintien du doigt sur une touche de clavier
+•Clavier « une main » 
+•Clavier virtuel ou é cran tactile
+•Souris de tête
+•Souris à bouche
+•Trackball, joystick
+•Commande vocale
+•Oculomètre ( eye-tracking )
+
+58 Accessibilité pour les handicaps moteurs
+•Clavier
+▪Aide à la saisie
+▪Toutes les fonctionnalités réalisables à partir du clavier 
+(formulaire, scripts, flash,…)
+•Souris
+▪Les liens doivent être d’une taille décente
+▪Eviter les liens textes ou graphique trop proches
+
+59 Difficultés lors du handicap mental
+•Difficultés de:
+▪compréhension des modes d’utilisation des 
+appareils
+▪réflexion
+▪lecture et/ou écriture
+▪compréhension et de résolution de problèmes
+▪conceptualisation
+▪communication
+▪décision
+▪mémorisation
+
+60 Accessibilité lors du handicap mental
+•Respecter les critères d’ergonomie de guidage et 
+d’intuitivité pour faciliter la compréhension :
+▪Effort cognitif minimum
+▪Affordance
+▪Lois de Gestalt (proximité, similarité)
+•Mise à disposition d’une information simplifiée 
+•Signalétique adaptée
+
+61 Accessibilité du Web
+•Réflexions plus développées que pour l’accessibilité 
+logicielle
+•Un site Web est considéré comme accessible lorsqu’il est 
+possible pour toute personne d’accéder pleinement quel 
+que soit :
+▪Le terminal utilisé (ordinateur, tablette, téléphone,…) ;
+▪Le système d’exploitation et le navigateur utilisé ;
+▪Les périphériques d’entrée (clavier, souris, interface tactile, 
+plage braille,…) et de sortie (écran, synthèse vocale, plage 
+braille,...)
+62 Evaluation de l’accessibilité des sites Web
+vérification de la conformité avec les WCAG ( Web Content 
+Accessibility Guidelines )
+➢Cf. séances de Mohamed Rezgui
+
+63 RGAA
+•Référentiel Général d’ Accessibilité pour les Administrations :
+➢Référentiel français basé sur les WCAG
+➢Spécifications techniques
+➢Téléchargeable sur le site du gouvernement : 
+https://accessibilite.numerique.gouv.fr/
+▪Version 4  depuis fin 2019 (à partir des WCAG 2.1 et d’une 
+norme européenne : EN 301 549.)
+64
+RGAA version 4 : méthode 
+technique avec Assistant 
+RGAA (Firefox)
+65
+Alt = « une femme est assise sur une statue renversée de 
+Lénine »
+Critère AccessiWeb 1.3 [Bronze]. Pour chaque image porteuse d'information 
+ayant une alternative textuelle, cette alternative est -elle pertinente (hors cas 
+particuliers) ?
+
+5. Evolution : accessibilité normative et 
+accessibilité effective
+
+68 Limites de l’approche du WAI
+•Stratégies des utilisateurs déficients visuels non prises en 
+compte
+•Règles subjectives
+•Règles difficiles à comprendre et à appliquer
+•Concepteurs ne connaissant ni les besoins des 
+utilisateurs, ni les problèmes auxquels ils doivent faire 
+face
+•Logique de création d’interfaces pour les personnes 
+voyantes
+Sloan et al. (2006) ; Nevile (2005)
+69 Pour une accessibilité complète
+•Accessibilité normative :
+➢Efficacité : pouvoir réaliser les tâches (atteindre le 
+but)
+•Accessibilité effective :
+➢Efficacité
+➢Efficience : pouvoir réaliser les tâches avec des 
+ressources raisonnables (temps, effort mental, effort 
+physique)
+➢Satisfaction : pouvoir réaliser les tâches avec une 
+bonne avec un niveau de satisfaction convenable 
+70 Accessibilité ≠ Utilisabilité ? 
+«Accessibilité à »  ➔«Utilisabilité de »
+71 Giraud (2014) 1. Observation armée
+
+72 Giraud (2014) 1. Observation armée
+
+73 Giraud (2014) 1. Observation armée
+
+74Giraud, Thérouanne 
+& Steiner (2015) :
+conceptualisation 
+d’une solution 
+technique
+Logo
+ Menu
+Contenu Accueil
+PublicitéPage 1
+Publicité
+1
+2
+Logo
+ Menu
+Contenu 
+Page 2
+Publicité
+Publicité
+3
+4
+5
+Menu 
+2
+6
+Logo
+ Menu
+Contenu 
+Page 3
+Publicité
+Publicité
+7
+8
+9
+Menu 
+2
+11
+ 10Fonctionnement technique :
+Analyse du contenu HTML
+Comparaison des données
+Détermination de la pertinence 
+des éléments
+Modification du contenu HTML
+Logo
+ Menu
+Contenu Accueil
+Publicité
+Publicité
+Logo
+ Menu
+Contenu 
+Page 2
+Publicité
+Publicité
+Menu 
+2
+Logo
+ Menu
+Contenu 
+Page 2
+Publicité
+Publicité
+Menu 
+2
+Contenu 
+Page 3
+Menu 
+2
+Logo
+ Menu
+Contenu 
+Page 3
+Publicité
+Publicité
+Menu 
+2
+1
+2
+4
+3Page 2
+Page 3Sans la solution technique : Avec la solution technique :
+Logo
+ Menu
+Publicité
+Publicité
+Zones d’informations 
+redondantes et non 
+pertinentes
+Zones d’informations 
+pertinentes
+Zones d’informations 
+lues par le lecteur 
+d’écran
+75 Technologies d’assistance
+➢Cf. Cours de Marco Winckler
+76 Prospective : agents « intelligents » d’assistance
+•Cf. Giraud, Uzan & Thérouanne (2011)
+•4 fonctions essentielles de l’agent d’assistance ( Sperandio
+et Uzan, 2002) :
+▪Assistance de la mémoire de l’utilisateur
+▪Assistance de veille
+▪Assistance d’enrichissement des contenus
+▪Assistance au filtrage des informations
+77 Agents « intelligents » d’assistance
+•Questions d’acceptabilité :
+▪acceptabilité pratique : de la part des concepteurs web
+Coût de l’application de l’approche holistique
+▪acceptabilité pratique et sociale : de la part des utilisateurs
+déficients visuels
+Utilité perçue
+Fiabilité perçue
+Confiance 
+Initiative, caractère intempestif des interventions
+➢Globalement bien accepté (Maddalon, 2024)
+78 Conclusion : conception universelle
+•Universal design , inclusive design , accessible design , 
+design for all (Personn et al., 2014)
+•Ergonomie vise à améliorer l’utilisabilité d’une interface 
+pour tous
+•Ainsi, assurer l’utilisabilité d’une interface pour les 
+personnes handicapées est consubstantielle des 
+démarches de conception centrées utilisateurs
+
+79 Bibliographie
+Altinier , A. (2022). Accessibilité web : Normes et bonnes pratiques pour des sites 
+accessibles . Paris : Eyrolles.
+Barral C., Korpès J.-L. (2007). La classification internationale du fonctionnement, du 
+handicap et de la santé : un nouveau regard pour les praticiens. Contraste, Enfance 
+et handicap , 27, 231 -246.
+Brajnik , G., Yesilada , Y., & Harper, S. (2011). The Expertise Effect on Web Accessibility
+Evaluation Methods. Human -Computer Interaction , 26, 246 -283.
+Giraud, S., Uzan, G., & Thérouanne, P . (2011). L'accessibilité des interfaces 
+informatiques pour les déficients visuels. In J. Dinet et C. Bastien ( Eds.), 
+L'ergonomie des objets et  environnements physiques et numériques (pp. 279 -304). 
+Paris : Hermes -Sciences Lavoisier.
+Giraud, S., Thérouanne, P ., & Steiner D. D. (2015). Conceptualization of a technical
+solution for web navigation of blind people. Actes de la 27ème conférence 
+francophone sur l'Interaction Homme -Machine . ACM, IHM -2015, pp.w3, 
+doi>10.1145/2820619.2825004.   
+Ngo, M -A. (2020). Handicap, droit et bien -être. Accessibilité, compensation, 
+capabilité . Grenoble, Presses universitaires de Grenoble.
+Sloan, D., Heath, A., Hamilton, F., Kelly, B., Petrie, H., & Phipps , L. (2006). Contextual
+web accessibility -Maximizing the benefit of accessibility guidelines. Proceedings
+of the W4A 2006 International Cross -disciplinary Workshop on Web Accessibility
+(pp. 121 -131). New York: ACM.
+FIN
+81 Exemple de site (poly -)adapté
+http://www.handicap.centrepompidou.fr/handicapcp/site/index.php
+82 L’accessibilité pour les séniors
+•Définition du sénior :
+▪60 ans (INSEE)
+▪65 ans (retraite)
+▪50 ans (entreprises)
+
+83 Quelques chiffres
+•Europe :
+➢2020 : 20% de personnes de plus de 64 ans
+➢2050 : 29 % de personnes de plus de 64 ans
+•France :
+➢2020 : 20,1% de personnes de plus de 64 ans
+➢2050 : 26% de personnes de plus de 64 ans
+
+84 Regroupement des 4 situations  handicaps
+•Visuel 
+•Auditif
+•Moteur
+•Cognitif
+
+85 Handicap visuel
+•Vieillissement de l’œil :
+➢Presbytie 
+➢Cataracte
+➢DMLA
+•Difficultés rencontrées :
+➢Diminution de l’acuité visuelle
+➢Diminution de la perception aux couleurs 
+➢Diminution de la sensibilité aux contrastes
+➢Augmentation de la sensibilité à la lumière
+
+86 Recommandations
+•Agrandissement des polices possible
+•Polices sans -serif
+•Eviter les polices spéciales
+•Texte aéré
+•Eviter le texte dans les images
+•Pouvoir utiliser l’interface sans couleurs
+•Eviter les images animés et clignotantes 
+➢Permettre leur contrôle
+•Libellés clairs des éléments cliquables 
+•Mise en forme saillante de ces éléments cliquables
+
+87 Handicap auditif
+•Vieillissement des fonctions auditives :
+▪Diminution de l’acuité auditive
+•Recommandation
+➢Equivalent textuel au contenu audio
+
+88 Handicap moteur
+•Dégénérescence du cartilage des articulations 
+:
+➢Arthrose
+•Difficultés rencontrées :
+➢Mouvements douloureux
+➢Diminution de la précision des mouvements
+
+89 Recommandations
+•Menus statiques
+•Eviter l’ascenseur horizontal
+•Informations importantes 
+➢sans utiliser l’ascenseur vertical
+•Marge autour des éléments cliquables
+•Zone cliquable large 
+
+90 Handicap cognitif
+•Vieillissement à plusieurs niveaux :
+➢processus attentionnels
+➢processus mnésiques
+•Difficultés rencontrées :
+➢Traitement de l’information plus difficile
+➢Diminution de l’attention
+➢Diminution de la mémoire 
+➢Diminution des capacités spatio -temporelles 
+➢Difficultés face à des tâches complexes
+
+91 Recommandations
+•Menu de navigation cohérent et identique sur toutes les pages
+•Fil d’ Ariane
+•Plan du site 
+•Moteur de recherche efficace
+•Eviter d’ouvrir de nouveaux onglets et fenêtres
+•Libellés de liens simples et exclusifs
+•Faible nombre de niveaux dans l’arborescence 
+•Structurer l’information importante de manière visuelle 
+•Aide et Feedbacks clairs
+•Vocabulaire non technique
+•Site utilisable sans les dernières technologies
